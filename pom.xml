@@ -5,6 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ie.atu.SimpleMvnApps</groupId>
+  
   <artifactId>mvnSimpleProj</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ATUMvnTestApp</name>
